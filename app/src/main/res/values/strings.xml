@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+    <string-array name="reminder">
+        <item>Tugas PPB</item>
+        <item>Tugas PKN</item>
+        <item>Tugas APSI T</item>
+        <item>Tugas APSI P</item>
+        <item>Tugas Proyek</item>
+        <item>Tugas PPL 1</item>
+        <item>Tugas PBO</item>
+        <item>Tugas PRPL</item>
+        <item>Tugas Wirus</item>
+        <item>Tugas Pancasila</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>description</item>
+        <item>description</item>
+        <item>description</item>
+        <item>description</item>
+        <item>description</item>
+        <item>description</item>
+        <item>description</item>
+        <item>description</item>
+        <item>description</item>
+        <item>description</item>
+    </string-array>
+</resources>
